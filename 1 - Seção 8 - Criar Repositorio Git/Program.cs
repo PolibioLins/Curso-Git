@@ -8,6 +8,7 @@ namespace _1___Seção_8___Criar_Repositorio_Git
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia");
+            Console.WriteLine("Como você está hoje?");
             Console.Read();
         }
     }
